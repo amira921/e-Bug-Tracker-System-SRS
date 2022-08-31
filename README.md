@@ -30,7 +30,7 @@ A software requirements specification (SRS) is a document that describes what th
     3.4 Communication Interface 
 
 <h3>4. System Features</h3>
-<br>
+
 <h3>5. Analysis Models </h3>
 
     4.1 Class Diagram 
